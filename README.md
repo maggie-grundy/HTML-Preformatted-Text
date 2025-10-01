@@ -16,6 +16,6 @@ Week 2 - Registration Form Assignment
 - [x] then show same JavaScript code inside pre tag to highlight the difference in formatting
 
 ## Part 3: Deployment and Submission
-- [ ] Deploy webpage using Github Pages
-- [ ] Ensure that the live site is accessible
-- [ ] Submit URL link to GitHub repository and the live site
+- [x] Deploy webpage using Github Pages
+- [x] Ensure that the live site is accessible
+- [x] Submit URL link to GitHub repository and the live site
